@@ -18,13 +18,13 @@
 <br>
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=mizu-codes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=161B22&title_color=ffffff&text_color=c9d1d9&border_radius=10" width="35%" />
+<img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=mizu-codes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=161B22&title_color=ffffff&text_color=c9d1d9&border_radius=10" width="38%" />
 
 <br>
 &nbsp;
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mizu-codes&theme=github-dark&hide_border=true&background=161B22&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border_radius=10" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mizu-codes&theme=github-dark&hide_border=true&background=161B22&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border_radius=10" width="48%"/>
 
 <br>
 <img src="https://singlecolorimage.com/get/30363D/1000x1" width="100%" height="1">
