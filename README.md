@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=160&section=header&text=Hi,%20I'm%20Muhammed%20Mizhan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20%7C%20Work%20in%20Progress&descAlignY=60&descSize=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=160&section=header&text=Hi,%20I'm%20Muhammed%20Mizhan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20%7C%20Work%20in%20Progress&descAlignY=60&descSize=15" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF9C&background=0D111700&center=true&vCenter=true&width=600&lines=MERN+STACK+DEVELOPER+%C2%B7+PROBLEM+SOLVER+%C2%B7+BUILDER;MongoDB+%2B+Express+%2B+React+%2B+Node.js;Currently+leveling+up%3A+React+%2B+TypeScript" alt="Typing SVG" />
 
