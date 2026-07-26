@@ -30,13 +30,13 @@
 <img src="https://singlecolorimage.com/get/30363D/1000x1" width="100%" height="1">
 <br><br>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mizhanmichu9966@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/muhammed-mizhan-5149ba33a">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/u/mizuyy">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
@@ -48,9 +48,9 @@
 <img src="https://raw.githubusercontent.com/mizu-codes/mizu-codes/output/github-contribution-grid-snake-dark.svg" width="100%" />
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mizu-codes&label=PROFILE+VIEWS&color=00ff9c&style=flat-square" />
+<br><img src="https://komarev.com/ghpvc/?username=mizu-codes&label=PROFILE+VIEWS&color=00ff9c&style=flat-square" />
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" width="100%"/>
 
