@@ -14,11 +14,13 @@
 <br><br>
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=mizu-codes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9" width="45%" />
+<img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=mizu-codes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=161B22&title_color=ffffff&text_color=c9d1d9&border_radius=10" width="35%" />
 
 <br>
+&nbsp;
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mizu-codes&theme=github-dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mizu-codes&theme=github-dark&hide_border=true&background=161B22&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border_radius=10" width="45%"/>
 
 <br><br>
 
