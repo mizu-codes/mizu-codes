@@ -24,34 +24,25 @@
 <br>
 
 <div align="center">
-
 <a href="https://github.com/mizu-codes/user-auth-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizu-codes&repo=user-auth-system&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api/pin/?username=mizu-codes&repo=user-auth-system&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/mizu-codes/Kaizen_Street">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizu-codes&repo=Kaizen_Street&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api/pin/?username=mizu-codes&repo=Kaizen_Street&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/mizu-codes/student-management-typescript">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizu-codes&repo=student-management-typescript&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api/pin/?username=mizu-codes&repo=student-management-typescript&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/mizu-codes/Uber-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mizu-codes&repo=Uber-clone&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api/pin/?username=mizu-codes&repo=Uber-clone&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
 </a>
-
 </div>
-
 <br>
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mizu-codes&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizu-codes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" width="38%" />
-
+<img src="https://github-readme-stats-sigma-pink.vercel.app/api?username=mizu-codes&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=mizu-codes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" width="38%" />
 <br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mizu-codes&theme=github-dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="60%"/>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=mizu-codes&label=PROFILE+VIEWS&color=00ff9c&style=flat-square" />
 
