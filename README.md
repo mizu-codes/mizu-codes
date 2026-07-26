@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=200&section=header&text=mizu-codes&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20//%20building%20things%20that%20work&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&background=0D111700&center=true&vCenter=true&width=600&lines=%3E+whoami;mizu-codes;%3E+stack;MongoDB+%2B+Express+%2B+React+%2B+Node;%3E+currently_learning;React+%2B+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&background=0D111700&center=true&vCenter=true&width=600&lines=%3E+whoami;mizu-codes;%3E+stack;MongoDB+%2B+Express+%2B+React+%2B+Node.js;%3E+currently_learning;React+%2B+TypeScript" alt="Typing SVG" />
 
 </div>
 
