@@ -18,7 +18,7 @@
 <br>
 <div align="center">
 
-<img src="https://github-readme-stats-mizu-codes1.vercel.app/api/top-langs/?username=mizu-codes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=161B22&title_color=ffffff&text_color=c9d1d9&border_radius=10" width="38%" />
+<img src="https://github-readme-stats-mizu-codes1.vercel.app/api/top-langs/?username=mizu-codes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=161B22&title_color=ffffff&text_color=c9d1d9&border_radius=10&v=2" width="38%" />
 
 <br>
 &nbsp;
