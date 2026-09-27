@@ -14,8 +14,10 @@
 
 </div>
 <br>
-<img src="https://singlecolorimage.com/get/30363D/1000x1" width="100%" height="1">
-<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:6E62E5,100:0D0D0F&height=1&section=header&animation=fadeIn" width="100%"/>
+
+<br><br>
 <div align="center">
 
 <img src="https://github-readme-stats-mizu-codes1.vercel.app/api/top-langs/?username=mizu-codes&layout=compact&size_weight=0.5&count_weight=0.5&theme=chartreuse-dark&hide_border=true&bg_color=161B22&title_color=ffffff&text_color=c9d1d9&border_radius=10&v=2" width="38%" />
@@ -26,9 +28,10 @@
 
 <img src="https://github-readme-streak-stats-six-dusky.vercel.app/?user=mizu-codes&theme=github-dark&hide_border=true&background=161B22&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border_radius=10&timezone=Asia%2FKolkata&v=3" width="48%"/>
 
-<br>
-<img src="https://singlecolorimage.com/get/30363D/1000x1" width="100%" height="1">
 <br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:6E62E5,100:0D0D0F&height=1&section=header&animation=fadeIn" width="100%"/>
+<br>
+<br>
 
 <a href="mailto:mizhanmichu9966@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
