@@ -17,7 +17,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:4B4E57,100:0D0D0F&height=1&section=header&animation=fadeIn" width="100%"/>
 
-<br><br>
+<br>
 <div align="center">
 
 <img src="https://github-readme-stats-mizu-codes1.vercel.app/api/top-langs/?username=mizu-codes&layout=compact&size_weight=0.5&count_weight=0.5&theme=chartreuse-dark&hide_border=true&bg_color=161B22&title_color=ffffff&text_color=c9d1d9&border_radius=10&v=2" width="38%" />
