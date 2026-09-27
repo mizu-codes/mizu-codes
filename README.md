@@ -15,7 +15,7 @@
 </div>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:6E62E5,100:0D0D0F&height=1&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:4B4E57,100:0D0D0F&height=1&section=header&animation=fadeIn" width="100%"/>
 
 <br><br>
 <div align="center">
@@ -29,7 +29,7 @@
 <img src="https://github-readme-streak-stats-six-dusky.vercel.app/?user=mizu-codes&theme=github-dark&hide_border=true&background=161B22&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border_radius=10&timezone=Asia%2FKolkata&v=3" width="48%"/>
 
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:6E62E5,100:0D0D0F&height=1&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:4B4E57,100:0D0D0F&height=1&section=header&animation=fadeIn" width="100%"/>
 <br>
 <br>
 
