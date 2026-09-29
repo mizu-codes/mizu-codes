@@ -19,7 +19,7 @@ jobs:
       - name: Generate streak stats
         uses: zients/github-readme-streak-stats@v2
         with:
-          options: user=mizu-codes&theme=dark&hide_border=true&background=161B22&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border_radius=10&disable_animations=true
+          options: user=mizu-codes&theme=dark&hide_border=true&background=161B22&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border_radius=10&disable_animations=true&starting_year=2024
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
